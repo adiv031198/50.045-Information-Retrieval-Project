@@ -32,11 +32,11 @@ Recommendation data from 325,772 users and 17,562 animes
 
 # Final Takeaways
 1. Lack of evaluation dataset.
-  Manually crafted queries and labelled data might be biased
-  Too small a test set, not representative
+  - Manually crafted queries and labelled data might be biased
+  - Too small a test set, not representative
 2. LSA was expected to be best performing - possibly need to make a more extensive evaluation dataset
 3. BM25 can be improved by implementing variations which assign weights to different attributes (Synopsis vs Name vs Genres etc)
 4. Query expansion with synonyms for recommendation
-  Can use user review scores to rank results too
+  - Can use user review scores to rank results too
 
 
