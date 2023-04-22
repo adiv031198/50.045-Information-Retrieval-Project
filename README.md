@@ -6,12 +6,13 @@ Anime is a popular style of Japanese film and television animation. It has a hug
 # Raw Dataset
 
 [Anime Recommendation Database 2020 (Kaggle)](https://www.kaggle.com/code/karthikayyala/anime-reccomendation/data)
+
 Recommendation data from 325,772 users and 17,562 animes
-1. [ anime.csv  ](anime.csv) [17562, 35]
-2. anime_with_synopsis.csv [16214, 35]
-3. animelist.csv [10922747, 5]
-4. rating_complete.csv [57633278, 3]
-5. watching_status.csv [2, 5]
+1. [anime.csv](anime.csv) 
+2. [anime_with_synopsis.csv](anime_with_synopsis.csv)
+3. [animelist.csv](animelist.csv)
+4. [rating_complete.csv](rating_complete.csv)
+5. [watching_status.csv](watching_status.csv)
 
 # Approaches
 1. Best Match 25 (BM25)
